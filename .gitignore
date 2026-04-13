@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+.wikicid_cache/
+~$*.xlsx
+*.zip
+_xlsx_tmp/
